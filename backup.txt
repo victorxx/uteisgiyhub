@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Links Importantes</title>
+  <meta name="description" content="Uma seleção de links importantes e úteis para acesso rápido a sites confiáveis e informativos.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.seusite.com.br/links-importantes">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    ul {
+      list-style: disc;
+      padding-left: 20px;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Links Importantes</h1>
+    <p>Confira abaixo uma lista de links úteis e confiáveis para seu dia a dia.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sites Úteis</h2>
+      <ul>
+        <li><a href="https://victorxx.github.io/erpgithubrnadom01/">CONFIRA A O OPORTUNIDADE DE ERP</a></li>
+        <li><a href="https://victorxx.github.io/redirecionae00/">CONFIRA ESSA OPORTUNIDADE</a></li>
+        <li><a href="https://victorxx.github.io/topicogithub01/randomizador.html">CONFIRA MAIS TÓPICOS</a></li>
+         <li><a href="https://victorxx.github.io/airbnbrandom01/" target="_blank" rel="noopener">COMECE NO AIRBNB</a></li>
+         <li><a href="https://victorxx.github.io/airbnbrandom01/" target="_blank" rel="noopener">COMECE NO AIRBNB</a></li>
+         <li><a href="https://geocredibnkvitoria.com/">CRÉDITO PESSOAL</a></li>
+         <li><a href="https://victorxx.github.io/vpsvendagihubrandom01/" target="_blank" rel="noopener">AS MELHORES VPS DO MERCADO</a></li>
+        <li><a href="https://www.google.com" target="_blank" rel="noopener">Google – Buscador</a></li>
+        <li><a href="https://www.gov.br" target="_blank" rel="noopener">Portal do Governo Federal</a></li>
+        <li><a href="https://www.receita.fazenda.gov.br" target="_blank" rel="noopener">Receita Federal do Brasil</a></li>
+        <li><a href="https://www.bbc.com/portuguese" target="_blank" rel="noopener">BBC News Brasil</a></li>
+        <li><a href="https://www.climatempo.com.br" target="_blank" rel="noopener">Climatempo – Previsão do Tempo</a></li>
+        <li><a href="https://www.wikipedia.org" target="_blank" rel="noopener">Wikipedia – Enciclopédia Livre</a></li>
+        <li><a href="https://www.youtube.com" target="_blank" rel="noopener">YouTube – Vídeos e Entretenimento</a></li>
+        <li><a href="https://web.whatsapp.com" target="_blank" rel="noopener">WhatsApp Web</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy;  - Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
